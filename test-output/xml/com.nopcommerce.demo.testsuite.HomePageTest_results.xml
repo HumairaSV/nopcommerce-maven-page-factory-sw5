@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HomePage Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="11.479">
+  <properties />
+  
+  
+            <testcase name="verifyPageNavigation" time="11.479" classname="com.nopcommerce.demo.testsuite.HomePageTest" />
+      
+</testsuite>

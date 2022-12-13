@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Smoke Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="43.369">
+  <properties />
+  
+  
+            <testcase name="verifyProductAddedToShoppingCartSuccessFully" time="43.369" classname="com.nopcommerce.demo.testsuite.ComputerTest" />
+      
+</testsuite>
